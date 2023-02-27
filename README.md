@@ -1,4 +1,4 @@
-#U-Net Architecture vs U-Net Architecture + Soft Attention
+**#U-Net Architecture vs U-Net Architecture + Soft Attention**
 
 #We will use U-Net architecture to do a forest segmentation task because it is well-suited for image segmentation tasks, and has been used successfully on various tasks such as medical image segmentation. The U-Net architecture consists of a contracting path, which is used to capture the context of the image, and a symmetrical expanding path, which is used to localize the target objects. The contracting path consists of several convolutional layers, followed by max-pooling layers, to reduce the spatial dimensions. The expanding path consists of several upsampling layers, followed by convolutional layers, to increase the spatial dimensions.
 
