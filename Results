@@ -1,0 +1,3 @@
+From the result above, using U-Net Architecture and adding Soft Attention
+The result of the training is val_loss: 0.4236, val_accuracy: 0.7975. that means the accuracy of the model is 79.75% 
+This model achieve over 4% more accurate from the normal UNet Architecture.
